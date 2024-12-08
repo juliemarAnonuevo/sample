@@ -15,9 +15,8 @@
   - Capitalized “POST”.
   - Centralized login, registration, and task validation form request.
   - Centralized service for user registration and task management.
-
-## Breakdown of Changes Made to Meet New API Requirements
-
+- Breakdown of Changes Made to Meet New API Requirements.
+  
 ### Solution and Explanation
 
 #### 1. **The overall look of the project feels a bit plain.**
@@ -155,7 +154,7 @@
 - **How you would fix it:**
   - Created individual services for user registration and task management, which improved readability, maintainability, and scalability. These services can be easily reused across both web and API requests.
 
-## Summary of Changes:
+#### 10. Breakdown of Changes Made to Meet New API Requirements.:
 
 - Created centralized individual services for user registration and task management.
 - Ensured services can be utilized for both web and API requests.
